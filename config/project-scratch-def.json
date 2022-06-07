@@ -1,0 +1,16 @@
+{
+  "orgName": "PluralSight Dev Test",
+  "edition": "Developer",
+  "adminEmail": "littleblueline@gmail.com",
+  "description": "Test org for the apex fundamentals course on pluralsight",
+  "hasSampleData": "true",
+  "features": ["EnableSetPasswordInApi"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    }
+  }
+}
